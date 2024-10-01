@@ -1,0 +1,23 @@
+.countdown {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    width: 50%;
+    margin: 0 auto;
+}
+
+.countdown-data {
+    font-size: 5rem;
+}
+
+.countdown-label {
+    font-size: 2rem;
+}
+
+h1 {
+    font-size: 4rem;
+}
+
+p, h1 {
+    text-align: center;
+}
